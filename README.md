@@ -20,9 +20,12 @@ This feature uses the color identifying property of OpenCV and uses it to make a
 This project helped me in understanding basic as well as some advanced functions of OpenCV and Pillow and implementing them in interesting projects .
 This project helped me in understanding the perception of image by a machine and it's manipulation.
 
+
 ## Demo
 
-Insert gif or link to demo
+https://user-images.githubusercontent.com/77204085/174866130-5f6457ed-0eb3-4edc-af5d-ba2800022bed.mp4
+
+
 
 ## Resources used
 
